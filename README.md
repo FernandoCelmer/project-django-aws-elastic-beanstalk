@@ -11,3 +11,5 @@
 - [Django 4.0](https://www.djangoproject.com/)
 - [MySQL](https://www.mysql.com/)
 
+## ✔️ Medium
+- [Parte 1 — Deploy Aplicação Django + Python 3 + MySQL noAWS Elastic Beanstalk](https://medium.com/@fernandocelmer/parte-1-deploy-aplica%C3%A7%C3%A3o-django-python-3-mysql-noaws-elastic-beanstalk-ac00022b334e)
